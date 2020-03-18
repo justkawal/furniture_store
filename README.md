@@ -4,6 +4,6 @@ Please consider donating if you think excel is helpful to you or that my work is
 
 # furniture_store
 
-A Furniture Store design from https://dribbble.com
+A Furniture Store design.
 
 <img src="furniture_store_1.png" width="30%" height="30%"> <img src="furniture_store_2.png" width="30%" height="30%"> <img src="furniture_store_3.png" width="30%" height="30%">
