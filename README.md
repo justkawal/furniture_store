@@ -6,4 +6,4 @@ Please consider donating if you think excel is helpful to you or that my work is
 
 A Furniture Store design from https://dribbble.com
 
-<img src='furniture_store_1.png'> <img src='furniture_store_2.png'> <img src='furniture_store_3.png'>
+<img src="furniture_store_1.png" width="30%" height="30%"> <img src="furniture_store_2.png" width="30%" height="30%"> <img src="furniture_store_3.png" width="30%" height="30%">
