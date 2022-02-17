@@ -1,4 +1,4 @@
-# Donate (Motivate me by Donating)
+# Donate
 
 Please consider donating if you think furniture_store is helpful to you or that my work is valuable.
 
